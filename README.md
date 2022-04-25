@@ -4,7 +4,7 @@ _CLI app developed with NodeJS to manage your bank account movements._
 
 ![BankAccount](./assets/bankaccount.png)
 
-## Instalación :wrench:
+## Intallation :wrench:
 
 _Following these instructions you could get a working copy of the project on your local machine for development and testing purposes._
 
